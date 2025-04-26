@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stock_sentiment_prediction"
+version = "0.1.0"
+description = "Predicting stock market movement using Reddit sentiment"
+authors = [
+    {name = "vivesh kumar singh", email = "viveshsingh8797@gmail.com"}
+]
+requires-python = ">=3.8"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+packages = ["src"]

@@ -1,0 +1,30 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# NLP & Transformers
+# nltk
+# transformers
+# torch
+# finbert-embedding
+
+# Reddit Scraping
+praw
+psaw
+
+# Stock Market Data
+yfinance
+pandas_datareader
+
+# MongoDB
+pymongo
+dnspython
+
+# Logging and Utilities
+loguru
+python-dotenv
+
+ipykernel
